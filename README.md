@@ -10,4 +10,4 @@ Custom Safe Zones
 Loot Objects
 
 # Customization
-Everything is customizable through the *config.lua* file.
+Everything is customizable through the ***config.lua*** file.
