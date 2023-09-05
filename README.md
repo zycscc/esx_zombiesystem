@@ -3,7 +3,7 @@ Originally posted by **Dislaik**, then reposted by **Zezoca25** with some change
 
 If you find any issues, please go ahead and report them in the **Issues** tab so I could take a look at it!
 
-Zombie System, Complemented with ESX Legacy
+Compatible with ESX Legacy.
 
 * Loot From Zombies (Weapons, items and money)
 * Loot Probability
