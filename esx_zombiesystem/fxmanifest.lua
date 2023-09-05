@@ -1,9 +1,9 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'Dislaik'
-description 'Zombie System for ESX Framework'
-version '1.2.9'
+author 'Zycs'
+description 'ESX Zombie System'
+version '1'
 
 client_scripts {
 	'config.lua',
