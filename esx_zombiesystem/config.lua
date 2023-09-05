@@ -192,7 +192,7 @@ Config.ItemLootObject = {
 
 Config.NoPeds = true
 Config.Blackout = false
-Config.MuteAmbience = true
+Config.MuteAmbience = false
 Config.NotHealthRecharge = true
 
 Config.Debug = false
