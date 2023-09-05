@@ -3,7 +3,7 @@ games { 'gta5' }
 
 author 'Zycs'
 description 'ESX Zombie System'
-version '1'
+version '1.0.0'
 
 client_scripts {
 	'config.lua',
